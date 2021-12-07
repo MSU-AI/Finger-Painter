@@ -3,7 +3,7 @@ import cv2
 
 
 # Import images and resize them to display
-logo = cv2.imread('images/logo.png')
+logo = cv2.imread('logo.png')
 logo = cv2.resize(logo, (100,100))
 
 
